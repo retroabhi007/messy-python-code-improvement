@@ -2,9 +2,9 @@
 
 A student coursework demonstration of identifying bad practices in beginner Python code and refactoring it into clean, maintainable, PEP 8-compliant code using AI assistance.
 
-- **Author**: Ayan Khan (Enrolment No: `25BCON1174`)
+- **Author**: ABHISHEK SINGH (Enrolment No: `25BCON1202`)
 - **Institution**: Department of Computer Science & Engineering, JECRC University
-- **GitHub Repository**: [https://github.com/ayankhanbebea-lgtm/messy-python-code-improvement](https://github.com/ayankhanbebea-lgtm/messy-python-code-improvement)
+- **GitHub Repository**:https://github.com/retroabhi007/messy-python-code-improvement.git
 
 ---
 
